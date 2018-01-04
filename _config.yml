@@ -2,8 +2,8 @@ title:             CS50 Puyo
 email:             m@mathsistor.com
 description:       A Blog for CS50 Puyo
 author:            M Vargas
-baseurl:           "/cs50puyo-website"
-url:               "https://cs50puyo.github.io"
+baseurl:           ""
+url:               "https://cs50puyo.tk"
 
 # Social Profiles
 twitter_username:  lmiguelvargasf

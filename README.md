@@ -1,5 +1,7 @@
 # CS50 Puyo Blog
 
+![CS50 Puyo Logo](cs50_puyo_logo.png)
+
 This blog has been created in order to report the project CS50 Puyo.
 CS50 Puyo is a programming course based on
 [CS50x][1],

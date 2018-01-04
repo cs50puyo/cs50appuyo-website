@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             CS50 Puyo
+email:             m@mathsistor.com
+description:       A Blog for CS50 Puyo
+author:            M Vargas
+baseurl:           "/cs50puyo-website"
+url:               "https://cs50puyo.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  lmiguelvargasf
+github_username:   lmiguelvargasf
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown

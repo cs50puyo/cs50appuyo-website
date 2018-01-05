@@ -29,4 +29,9 @@
   <link rel="mask-icon" href="{{ "/favicons/safari-pinned-tab.svg" | prepend: site.baseurl }}" color="#5bbad5">
   <meta name="theme-color" content="#ffffff">
 
+  <!-- SEO -->
+  <meta property="og:title" content="{{ site.title }}" >
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" >
+  <meta property="og:image" content="{{ "/cs50_puyo_logo.png" | prepend: site.baseurl }}" >
+
 </head>

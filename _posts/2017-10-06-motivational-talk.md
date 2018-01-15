@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motivational Talk: Why Should everybody learn how to program?"
-subtitle: "A talk to encourage students to apply to CS50 Puyo"
+subtitle: "A talk to encourage students to apply to CS50 AP Puyo"
 date: 2017-10-06
 background: '/img/posts/01.jpg'
 ---

@@ -1,9 +1,9 @@
-# CS50 Puyo Blog
+# CS50 AP Puyo Blog
 
-![CS50 Puyo Logo](cs50_puyo_logo.png)
+![CS50 AP Puyo Logo](cs50_puyo_logo.png)
 
-This blog has been created in order to report the project CS50 Puyo.
-CS50 Puyo is a programming course based on
+This blog has been created in order to report the project CS50 AP Puyo.
+CS50 AP Puyo is a programming course based on
 [CS50x][1],
 [CS50 AP][2],
 and [MITx 6.00.1x][3].

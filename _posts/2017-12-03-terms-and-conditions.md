@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CS50 Puyo Terms and Conditons"
-subtitle: "Conditions to take a place in CS50 Puyo"
+subtitle: "Conditions to take a place in CS50 AP Puyo"
 date: 2017-12-03
 background: '/img/posts/01.jpg'
 ---

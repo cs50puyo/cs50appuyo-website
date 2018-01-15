@@ -3,7 +3,7 @@ layout: post
 title:  "CS50 AP Puyo: The beginning"
 subtitle: "Learning how to code in the Amazon region of Ecuador"
 date: 2017-09-14
-background: '/img/posts/01.jpg'
+background: '/img/posts/post-bg.jpg'
 ---
 
 I took CS50 through edX in 2014, and this course completely changed my life.

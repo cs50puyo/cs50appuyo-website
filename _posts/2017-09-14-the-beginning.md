@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "CS50 AP Puyo: The beginning"
-subtitle: "Learning how to code in the Amazon region of Ecuador"
+title:  "CS50 AP Puyo"
+subtitle: "Learning to code in the Ecuadorian Amazon region"
 date: 2017-09-14
 background: '/img/posts/post-bg.jpg'
 ---

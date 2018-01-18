@@ -6,7 +6,9 @@ date: 2017-10-06
 background: '/img/posts/post-bg.jpg'
 ---
 
-After obtaining the approval to teach CS50 AP, I decided to make a presentation
+After obtaining the approval to teach CS50 AP, I decided to make
+<a  target="_blank"
+    href="https://docs.google.com/presentation/d/1GRvJfbYinuhg7YsAm-KNgCBn2WJHyeAw8NI_BpRqwmg/edit?usp=sharing">a presentation</a>
 to motivate students to apply for this course. Even though I wanted to teach to
 everybody who was eager to learn coding, I was aware that I was doing this mostly
 by myself, and I was also keeping in mind that the main goal was to demonstrate

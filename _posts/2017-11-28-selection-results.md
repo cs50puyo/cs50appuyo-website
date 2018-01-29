@@ -49,15 +49,14 @@ the most promising applicants. I sent an email which was brief and precise about
 the rejection, and I added some links to courses they could follow by their own
 in case they cannot wait for the next version to be released.
 
-These are the students who were selected to the the beta version of the course
-CS50 AP Puyo. The order in which they appear is random, so it does not follow
-any pattern or preference:
+These are the students who were selected to take the beta version of the course
+CS50 AP Puyo. They have been listed alphabetically by their names:
 
-* Thaily Ribadeneira
-* Sebastián Illicachi
-* Brigitte Pérez
-* Edwin León
-* Yadira De La Torre
 * Christian Santamaría
-* Dayra Yasacama
 * Daniel Velin
+* Dayra Yasacama
+* Edwin León
+* Naydelin Pérez
+* Sebastián Illicachi
+* Thaily Ribadeneira
+* Yadira De La Torre

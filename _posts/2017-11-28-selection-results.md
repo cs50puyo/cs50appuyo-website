@@ -16,7 +16,7 @@ feedback, so I could have different outlooks of each applicant.
 
 Once all data was collected, an algorithm was designed to process this information
 and obtain the students for the course. This algorithm consisted of giving a weight
-of 60% to the technical test, 35% to the personal interview, and 5% to their shown personal
+of 60% to the technical test, 35% to the personal interview, and 5% to the shown personal
 traits. In addition, because this course promotes gender equality, there was a condition
 to select 4 male and 4 female candidates. There was also another condition considering
 that students from 10th grade had less experience with the topics of the technical tests.
@@ -47,7 +47,7 @@ in those admission committees that receives thousands of applications each year,
 unfortunately there are just few spots available, and they have, somehow, to choose
 the most promising applicants. I sent an email which was brief and precise about
 the rejection, and I added some links to courses they could follow by their own
-in case they cannot wait for the next version to be released.
+in case they cannot wait for the next version to begin.
 
 These are the students who were selected to take the beta version of the course
 CS50 AP Puyo. They have been listed alphabetically by their names:

@@ -41,7 +41,7 @@ care of the high school facilities. Another important condition was that they wi
 have to be teaching assistants the next time the course is offered, so more people
 have the opportunity to learn coding.
 
-Telling the other applicants that their application was successful was one of the
+Telling the other applicants that their application was not successful was one of the
 most difficult things I have done in my entire life. I thought of myself as a person
 in those admission committees that receives thousands of applications each year, but
 unfortunately there are just few spots available, and they have, somehow, to choose

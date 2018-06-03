@@ -61,7 +61,7 @@ CS50 AP Puyo. They have been listed alphabetically by their names:
 * Thaily Ribadeneira
 * Yadira De La Torre
 
-<img src="/img/posts/the8.jpg" width="700">
+<img src="/img/posts/the8.jpg" class="img-fluid" alt="Responsive image">
 <b>Top:</b> Yadira, Sebastian, Thaily, Christian.
 <br>
 <b>Buttom:</b> Daniel, Naydelin, Edwin, and Dayra.
